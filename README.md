@@ -67,10 +67,3 @@
 > “Code. Learn. Flex.”  
 
 ---
-
-## 📌 Notes:
-- Certificates table me **actual links** daalna.  
-- Projects table me repo links daal ke preview image/description add kar sakte ho.  
-- GitHub Stats badges automatically update with your activity.  
-- README ko `README.md` file me save karke repo me daal do — profile me automatic showcase ho jayega.  
-
