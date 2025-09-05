@@ -31,8 +31,6 @@
 | Kaggle Python | Kaggle | [View Certificate](#) |
 | Google Cloud Skills | Google Cloud | [View Certificate](#) |
 
-*(Replace `#` with your actual certificate links.)*
-
 ---
 
 ## 💻 Projects
@@ -42,8 +40,6 @@
 | Calculator App | Simple Python calculator | [GitHub](https://github.com/pranavsharmahere/calculator-app) |
 | Weather App | API-based weather app | [GitHub](https://github.com/pranavsharmahere/weather-app) |
 | Tic Tac Toe | Python game with CLI interface | [GitHub](https://github.com/pranavsharmahere/tic-tac-toe) |
-
-*(Replace links with your actual repos.)*
 
 ---
 
