@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Pranav Sharma
 
-🎓 10th Grade Student | 🐍 Python Enthusiast | 💻 Web & Automation Explorer  
+🐍 Python Enthusiast | 💻 Web & Automation Explorer  
 
 ---
 
@@ -20,18 +20,6 @@
 
 ---
 
-## 🏆 Certificates
-
-| Certificate | Platform | Link |
-|-------------|---------|------|
-| Python for Beginners | SoloLearn | [View Certificate](#) |
-| Python Fundamentals | Great Learning | [View Certificate](#) |
-| HackerRank Python Skills | HackerRank | [View Certificate](#) |
-| Scientific Computing with Python | FreeCodeCamp | [View Certificate](#) |
-| Kaggle Python | Kaggle | [View Certificate](#) |
-| Google Cloud Skills | Google Cloud | [View Certificate](#) |
-
----
 
 ## 💻 Projects
 
